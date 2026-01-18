@@ -134,7 +134,7 @@ CREATE DATABASE controle_estoque;
 Java Backend Developer
 
 * GitHub: [https://github.com/kaisergui](https://github.com/kaisergui)
-* LinkedIn: [https://www.linkedin.com/](www.linkedin.com/in/guilhermekaiserds)
+* LinkedIn: [https://www.linkedin.com/in/guilhermekaiserds](www.linkedin.com/in/guilhermekaiserds)
 
 ---
 
